@@ -9,6 +9,7 @@ $(document).ready(function() {
  	function redrawAllVisualizerArrows() { 
  
  	 	 if (testvisualizer) testvisualizer.redrawConnectors(); 
- 	 } 
+ 	}
+ 
  $(window).resize(redrawAllVisualizerArrows); 
 });
