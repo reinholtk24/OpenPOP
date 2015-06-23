@@ -4,3 +4,7 @@
 
 // TODO: Update readme as directory contents are updated. 
 
+jsonFilter contains files for removing an enormous amount of unwanted criteria from the generated backend json trace. 
+
+JavaTraceGen contains the files from David Pritchard's github/java_jail repository that were used to take in java code and produce a json object. 
+
